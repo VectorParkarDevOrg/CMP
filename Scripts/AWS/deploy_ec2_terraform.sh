@@ -1,6 +1,10 @@
 #!/bin/bash
 
 #############################################################################
+# Need to Add the Aws Access key and Secret Key in the config.ini file 
+# With Following Permissions : AdministratorAccess Policy
+#
+#############################################################################
 # AWS EC2 Interactive Deployment Script with Terraform Backend
 # Description: Interactive Bash script that generates and executes Terraform
 # Author: Infrastructure Automation
